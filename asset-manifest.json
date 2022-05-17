@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/IngrediantsApp/static/css/main.2bebf0af.chunk.css",
+    "main.js": "/IngrediantsApp/static/js/main.c7d8ceb9.chunk.js",
+    "main.js.map": "/IngrediantsApp/static/js/main.c7d8ceb9.chunk.js.map",
+    "runtime-main.js": "/IngrediantsApp/static/js/runtime-main.01134e09.js",
+    "runtime-main.js.map": "/IngrediantsApp/static/js/runtime-main.01134e09.js.map",
+    "static/js/2.5468fa99.chunk.js": "/IngrediantsApp/static/js/2.5468fa99.chunk.js",
+    "static/js/2.5468fa99.chunk.js.map": "/IngrediantsApp/static/js/2.5468fa99.chunk.js.map",
+    "index.html": "/IngrediantsApp/index.html",
+    "static/css/main.2bebf0af.chunk.css.map": "/IngrediantsApp/static/css/main.2bebf0af.chunk.css.map",
+    "static/js/2.5468fa99.chunk.js.LICENSE.txt": "/IngrediantsApp/static/js/2.5468fa99.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/IngrediantsApp/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01134e09.js",
+    "static/js/2.5468fa99.chunk.js",
+    "static/css/main.2bebf0af.chunk.css",
+    "static/js/main.c7d8ceb9.chunk.js"
+  ]
+}
